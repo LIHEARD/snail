@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="googledrive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../work/下载/algorithms-sedgewick-wayne-master/libs/algs4.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../work/下载/algorithms-sedgewick-wayne-master/libs/googledrive" />
+      <root url="file://$PROJECT_DIR$/../../../../work/下载/algorithms-sedgewick-wayne-master/libs/java3d" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../work/下载/algorithms-sedgewick-wayne-master/libs/algs4.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../work/下载/algorithms-sedgewick-wayne-master/libs/googledrive" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../work/下载/algorithms-sedgewick-wayne-master/libs/java3d" recursive="false" />
+  </library>
+</component>
