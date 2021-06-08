@@ -10,5 +10,7 @@ public class TestMap {
         map.put("2","1");
         map.put("3","1");
         System.out.println(map);
+
+        System.out.println("sssss");
     }
 }
